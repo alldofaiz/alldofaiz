@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <table>
     <tr>
         <td>
-            <img align='left' src = "https://github-readme-streak-stats.herokuapp.com/?user=FlazeFy&theme=dark">
+            <img align='left' src = "https://github-readme-streak-stats.herokuapp.com/?user=alldofaiz&theme=dark">
         </td>
          <td>
-            <img align='left' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=FlazeFy&&layout=compact&langs_count=6">
+            <img align='left' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=alldofaiz&&layout=compact&langs_count=6">
         </td>
     </tr>
 </table>
