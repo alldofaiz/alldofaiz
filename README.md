@@ -62,13 +62,6 @@ Currently learning about machine learning, but I love learn new thing in program
     - 📫 How to reach me: <a href="alldofaiz@gmail.com">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
 </details>
-<p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alldofaiz&layout=compact" height=180 />
-</p>
-
-### Let's connect!
-
-
 <table>
     <tr>
         <td>
