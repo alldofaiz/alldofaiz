@@ -14,7 +14,7 @@ Currently learning about machine learning, but I love learn new thing in program
 ### Database
 
 <p>
-    <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="[https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)" />
     <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF" />
 </p>
 
@@ -29,6 +29,12 @@ Currently learning about machine learning, but I love learn new thing in program
 </p>
 
 ### Back End:
+
+<p>
+ <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+    <img src="[https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)"/>
+    <img src="[[https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)"/>
+</p>
 
 <p>
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
