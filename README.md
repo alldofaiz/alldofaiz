@@ -1,10 +1,13 @@
-Berikut halaman Anda yang telah diperbarui sesuai dengan informasi yang Anda berikan:
-
----
-
 # Hi there 👋, I'm Alldo Faiz Ramadhani!
 
-My page is undergoing maintenance as I organize my local repository for better storage. I'm currently learning machine learning and enjoy discovering new aspects of programming such as JavaScript, C++, and Python.
+I'm a technology enthusiast and programmer who is always eager to learn and explore new things in the coding world.
+
+🔧 Currently, I'm focusing on learning in the field of machine learning and exploring various programming concepts such as Python and JavaScript. I have expertise in several programming languages and experience using technologies like React.js, Next.js, and Firebase.
+
+💼 I have experience working at Multi Kontrol Nusantara, Bakrie Company, where I'm actively involved in exciting technology projects.
+
+✉️ You can reach me via email at alldofaiz@gmail.com or through my LinkedIn profile.
+
 
 ### Tools:
 
@@ -76,8 +79,3 @@ My page is undergoing maintenance as I organize my local repository for better s
     </tr>
 </table>
 
----
-
-### Notes:
-- Be sure to update the links and any specific stats or data you want to showcase.
-- Ensure all external links (e.g., email) are correctly formatted and functional.
